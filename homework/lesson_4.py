@@ -2,7 +2,7 @@
 a = "Привет"
 b = 42
 c = 3.14
-d = [ 1, 2, 3 ]
+d = [1, 2, 3]
 
 print(type(a))
 print(type(b))
