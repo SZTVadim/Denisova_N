@@ -48,7 +48,7 @@ print("   ".isspace())
 text_2 = "Python very good"
 print(text_2[:3])
 print(text_2[-3:])
-print(text_2[1::2])
+print(text_2[::2])
 print(text_2[::-1])
 
 # задание 9 : Экранирование символов
